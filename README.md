@@ -44,48 +44,64 @@ If you want to contact me you can reach me at [Twitter](https://www.twitter.com/
 MIT
 
 <!--- 
-This was copied without permission, but is going to be changed to my personal data.
+<>This was copied without permission, but it would be changed to my own.<>
+<> The images shall be downloaded apart<>
+# This is my portfolio website. Welcome
 
-# Welcome to my porfolio website repo!
+<> maybe change to spanish and french too? <>
 
-:boy: I am a `PhD Candidate in Economics` at [Universitat de Barcelona (UB)](https://www.ub.edu/school-economics/) & [Institut d'Economia de Barcelona (IEB)](https://ieb.ub.edu/en/) since September 2021. I obtained my MSc in Economics from [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in 2019 and my Bachelor's degree in Economics from [Universidad Autónoma de Madrid](https://www.uam.es/Economicas/Home.htm?language=en) in 2016.
+Hello world! 
+I am Pablo Álvarez Rodríguez, with my online alias PARCB (because there are lots of people with the same surname and names, but there is only one me! Pablo Álvarez Rodríguez Carnicero Braña).
 
-:office: I also worked at: <a href ="https://ifs.org.uk/" target="_blank" rel="nofollow"><img src="./assets/icon/ifs-circle.png" alt="ifs icon" width="1.3%"></a> <a href ="https://ifs.org.uk/">Institute for Fiscal Studies (IFS)</a> (TaxDev) &middot; <a href ="https://www.airef.es/es/" target="_blank" rel="nofollow"><img src="./assets/icon/airef-circle.png" alt="airef icon" width="1.3%"></a> <a href ="https://www.airef.es/es/">AIReF</a> (Public Policy Evaluation Division) &middot; <a href ="https://www.cunef.edu/" target="_blank" rel="nofollow"><img src="./assets/icon/cunef-circle.png" alt="cunef icon" width="1.3%"></a> <a href ="https://www.cunef.edu/">CUNEF</a> (Department of Economics) &middot; <a href ="https://www.bde.es/bde/en/" target="_blank" rel="nofollow"><img src="./assets/icon/bde-circle.png" alt="bde icon" width="1.3%"></a> <a href ="https://www.bde.es/bde/en/">Bank of Spain</a> (DG Economics, Statistics and Research) &middot; <a href ="https://www.nera.com/practice-areas/energy.html#tab-4" target="_blank" rel="nofollow"><img src="./assets/icon/nera-circle.png" alt="nera icon" width="1.3%"></a> <a href ="https://www.nera.com/practice-areas/energy.html#tab-4">NERA Economic Consulting</a> (Energy Division).
+I am currently working as Scientific Services Technician in the Instituto de Productos Lácteos de Asturias, from CSIC; and preparing the state exams for Weather Observer.
 
-## My Research in A Nutshell
+I obtained my Bachelor's degree in Physics in 2018 at University of Oviedo (https://www.uniovi.es/estudia/grados/ciencias/fisica), and the following MSc:
+- MSc Education
+- MSc Materials
+- MSc Medical Physics
 
-:question: How do households and firms respond to government policies (<b>taxes</b>, <b>regulations</b> and <b>public-spending policies</b>)? I address this research question both from empirical and theoretical perspective. Hence, I work with <b>micro-data & causal inference methods</b>, but also with <b>large-scale general equilibrium macro models</b>.
+I believe my strengths shine most in supportive roles rather than leadership positions, thanks to my diverse background. I bring a unique perspective to each project, shaped by a range of experiences and a curiosity-driven approach.
 
-:mag: My research interests are:
+<> add education and link to education <>
 
-| 📈 Research Fields | 🛠️ Technical Interests |
-| -------- | ----------- |
-| `Public Finance` `Taxation` `Household Finance` `Inequality` `Public Economics`  | `Causal Inference` `Micro-Simulation` `Linked Admin Micro-Data` `Survey Micro-Data` | 
+<> Add MEDAC work for a year<>
+I also worked at: <a href ="https://ifs.org.uk/" target="_blank" rel="nofollow"><img src="./assets/icon/ifs-circle.png" alt="ifs icon" width="1.3%"></a> <a href ="https://ifs.org.uk/">Institute for Fiscal Studies (IFS)</a> (TaxDev) &middot; <a href ="https://www.airef.es/es/" target="_blank" rel="nofollow"><img src="./assets/icon/airef-circle.png" alt="airef icon" width="1.3%"></a> <a href ="https://www.airef.es/es/">AIReF</a> (Public Policy Evaluation Division) &middot; <a href ="https://www.cunef.edu/" target="_blank" rel="nofollow"><img src="./assets/icon/cunef-circle.png" alt="cunef icon" width="1.3%"></a> <a href ="https://www.cunef.edu/">CUNEF</a> (Department of Economics) &middot; <a href ="https://www.bde.es/bde/en/" target="_blank" rel="nofollow"><img src="./assets/icon/bde-circle.png" alt="bde icon" width="1.3%"></a> <a href ="https://www.bde.es/bde/en/">Bank of Spain</a> (DG Economics, Statistics and Research) &middot; <a href ="https://www.nera.com/practice-areas/energy.html#tab-4" target="_blank" rel="nofollow"><img src="./assets/icon/nera-circle.png" alt="nera icon" width="1.3%"></a> <a href ="https://www.nera.com/practice-areas/energy.html#tab-4">NERA Economic Consulting</a> (Energy Division).
+
+## My work so far in a nutshell
+
+## My research interests are:
+
+-- Meteorology and Climatology
+-- Biophysics, from Solid State to Soft Matter
+-- Radiophysics and Medical Physics
+-- Electromagnetism, Mechanics, Termodynamics
+-- Electronics
+-- Photonics
 
 ## </> Computer Literacy
 
-👨‍💻 I feel comfortable with the following coding languages and/or environments:
+I commonly work with the following coding languages and/or environments:
 
+<> get only the code that i do know <>
 <code><a target="_blank" rel="nofollow"><img src="./assets/icon/stata.ico" alt="stata icon" width="2%"></a> Stata</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/matlab.ico" alt="matlab icon" width="2%"></a> Matlab</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/python.ico" alt="python icon" width="2%"></a> Python</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/r.ico" alt="r icon" width="2%"></a> Rstats</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/julia.ico" alt="julia icon" width="2%"></a> Julia</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/fortran.ico" alt="fortran icon" width="2%"></a> Fortran</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/latex.ico" alt="latex icon" width="2%"></a> LaTeX</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/github2.ico" alt="github2 icon" width="2%"></a> Github</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/git.ico" alt="git icon" width="2%"></a> Git</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/html.ico" alt="html icon" width="2%"></a> HTML</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/css.ico" alt="css icon" width="2%"></a> CSS</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/euromod.ico" alt="euromod icon" width="2%"></a> Euromod</code> 
 
-:computer: My public repositories are mainly written in the following languages:
+<>None yet... so... this should be erased?<>
+My public repositories are mainly written in the following languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serranopuente&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=postscript&size_weight=0.5&count_weight=0.5)
 
 ## Reach Me :mailbox:
 
+<> change! <>
 #### Website
-<a href="https://serranopuente.eu/" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/serranopuente.eu-FFC801?style=flat-square&logo=githubpages&logoColor=white"></a>
+<a href="https://par-cb.github.ioi/" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/serranopuente.eu-FFC801?style=flat-square&logo=githubpages&logoColor=white"></a>
 
 #### Mail
-<a href="mailto:darioserrapuente@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/darioserrapuente(at)gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-<a href="mailto:dario.serrano@ub.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/dario.serrano(at)ub.edu-0078D4?style=flat-square&logo=maildotru&logoColor=white"></a>
+<a href="mailto:pablo96carnicero@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/darioserrapuente(at)gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 
 #### Social Media
-<a href="https://www.linkedin.com/in/serranopuente" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/serranopuente-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<a href="https://twitter.com/darioserranopue" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/@darioserranopue-1DA1F2?style=flat-square&logo=X&logoColor=white"></a>
-<a href="https://bsky.app/profile/serranopuente.eu" target="_blank"><img alt="BlueSky" src="https://img.shields.io/badge/@serranopuente.eu-6364FF?style=flat-square&logo=BlueSky&logoColor=white"></a>
-<a href="https://github.com/serranopuente" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/serranopuente-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/parcb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/serranopuente-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<a href="https://github.com/par-cb" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/serranopuente-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 #### Research Profiles
 <a href="https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Dario_Serrano--Puente-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
