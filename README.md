@@ -55,17 +55,19 @@ I am Pablo Álvarez Rodríguez, with my online alias PARCB (because there are lo
 
 I am currently working as Scientific Services Technician in the Instituto de Productos Lácteos de Asturias, from CSIC; and preparing the state exams for Weather Observer.
 
-I obtained my Bachelor's degree in Physics in 2018 at University of Oviedo (https://www.uniovi.es/estudia/grados/ciencias/fisica), and the following MSc:
-- MSc Education
-- MSc Materials
-- MSc Medical Physics
-
+I consider myself a responsible and adaptable person. Always willing to take on new challenges and experiences; and as soon as these challenges appear, control them with the emotional stability required depending on the event. I don’t consider myself a very extroverted person, but I am enough to have interactions with clients or to help with training.
+I understand that I have creative and conceptualization skills useful for solving problems, as well as analysis and interpretation skills through my educational background. And execute orders according to relevant regulations in an orderly manner.
 I believe my strengths shine most in supportive roles rather than leadership positions, thanks to my diverse background. I bring a unique perspective to each project, shaped by a range of experiences and a curiosity-driven approach.
 
-<> add education and link to education <>
+I obtained my Bachelor's degree in Physics in 2018 at University of Oviedo (https://www.uniovi.es/estudia/grados/ciencias/fisica), and the following MSc:
+- Master in Teacher Training for Compulsory Secondary Education and Baccalaureate, Vocational Training and Language Teaching: Physics and Chemistry Specialization. International University of La Rioja. Class 2018-2019. ([https://www.unir.es](https://estudiar.unir.net/es/es-esp-ma-ed-master-oficial-educacion-secundaria/?utm_source=GOOGLE-BUSQ&utm_medium=Search&utm_campaign=UNIREU_EU_ES_FED_ED_MO_DIDACT_EduSecundBachyFP-10509_MAR_X_LWEB_GLOB_ES_PROD_AO_GOOGLE-BUS_BUS_ESP_X_X&utm_content=ES_ES_FED_ED_MO_DIDACT_EduSecundBachyFP-10509_MAR_BUSQ_MasterSecundaria_TXT_CPC_GOOGLE-BUS_MIX_X_X_X&bi_campaignid=849869660&bi_adgroupid=162346503320&wcmp=849869660&wmatch=e&wkwd=unir%20master%20profesorado&wad=693684634777&wpos=&wdt=c&wdm=&gad_source=1&gad_campaignid=849869660&gbraid=0AAAAADvi6Q8Belhw_I0nmNddW3hPY65Ud&gclid=Cj0KCQjw5ubABhDIARIsAHMighbIg6fzVttIVJv5-_-AAjFLkjGt9qFebAof2F8hrHd4ijMLKjuR3D8aAmShEALw_wcB))
+- Master’s Degree in Materials Science and Technology: Oviedo’s University. From 2018 to 2020 (https://www.uniovi.es/estudia/masteres/ingenieriayarquitectura/materiales)
+- Master’s Degree in Medical Physics at National University of Distance Education (UNED). From 2018 to 2024. ([https://wwww.uned.es]https://www.uned.es/universidad/inicio/estudios/masteres/master-universitario-en-fisica-medica.html?idContenido=1)
+
+
 
 <> Add MEDAC work for a year<>
-I also worked at: <a href ="https://ifs.org.uk/" target="_blank" rel="nofollow"><img src="./assets/icon/ifs-circle.png" alt="ifs icon" width="1.3%"></a> <a href ="https://ifs.org.uk/">Institute for Fiscal Studies (IFS)</a> (TaxDev) &middot; <a href ="https://www.airef.es/es/" target="_blank" rel="nofollow"><img src="./assets/icon/airef-circle.png" alt="airef icon" width="1.3%"></a> <a href ="https://www.airef.es/es/">AIReF</a> (Public Policy Evaluation Division) &middot; <a href ="https://www.cunef.edu/" target="_blank" rel="nofollow"><img src="./assets/icon/cunef-circle.png" alt="cunef icon" width="1.3%"></a> <a href ="https://www.cunef.edu/">CUNEF</a> (Department of Economics) &middot; <a href ="https://www.bde.es/bde/en/" target="_blank" rel="nofollow"><img src="./assets/icon/bde-circle.png" alt="bde icon" width="1.3%"></a> <a href ="https://www.bde.es/bde/en/">Bank of Spain</a> (DG Economics, Statistics and Research) &middot; <a href ="https://www.nera.com/practice-areas/energy.html#tab-4" target="_blank" rel="nofollow"><img src="./assets/icon/nera-circle.png" alt="nera icon" width="1.3%"></a> <a href ="https://www.nera.com/practice-areas/energy.html#tab-4">NERA Economic Consulting</a> (Energy Division).
+I also worked at: <a href ="https://medac.es/fp-oviedo/plaza-occidente-1">Vocational Training Institute MEDAC</a> (Teacher of Physical Fundamentals and Equipment).
 
 ## My work so far in a nutshell
 
@@ -83,12 +85,9 @@ I also worked at: <a href ="https://ifs.org.uk/" target="_blank" rel="nofollow">
 I commonly work with the following coding languages and/or environments:
 
 <> get only the code that i do know <>
-<code><a target="_blank" rel="nofollow"><img src="./assets/icon/stata.ico" alt="stata icon" width="2%"></a> Stata</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/matlab.ico" alt="matlab icon" width="2%"></a> Matlab</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/python.ico" alt="python icon" width="2%"></a> Python</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/r.ico" alt="r icon" width="2%"></a> Rstats</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/julia.ico" alt="julia icon" width="2%"></a> Julia</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/fortran.ico" alt="fortran icon" width="2%"></a> Fortran</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/latex.ico" alt="latex icon" width="2%"></a> LaTeX</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/github2.ico" alt="github2 icon" width="2%"></a> Github</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/git.ico" alt="git icon" width="2%"></a> Git</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/html.ico" alt="html icon" width="2%"></a> HTML</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/css.ico" alt="css icon" width="2%"></a> CSS</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/euromod.ico" alt="euromod icon" width="2%"></a> Euromod</code> 
-
-<>None yet... so... this should be erased?<>
-My public repositories are mainly written in the following languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serranopuente&layout=compact&theme=dark&hide_border=true&langs_count=8&hide=postscript&size_weight=0.5&count_weight=0.5)
+<code><a target="_blank" rel="nofollow"><img src="./assets/icon/matlab.ico" alt="matlab icon" width="2%"></a> Matlab</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/python.ico" alt="python icon" width="2%"></a> Python</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/r.ico" alt="r icon" width="2%"></a> Rstats</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/latex.ico" alt="latex icon" width="2%"></a> LaTeX</code> 
+I am starting to work with the following coding languages:
+<code><a target="_blank" rel="nofollow"><img src="./assets/icon/github2.ico" alt="github2 icon" width="2%"></a> Github</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/git.ico" alt="git icon" width="2%"></a> Git</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/html.ico" alt="html icon" width="2%"></a> HTML</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/css.ico" alt="css icon" width="2%"></a> CSS</code> <code><a target="_blank" rel="nofollow"><img src="./assets/icon/javascript.ico" alt="javascript" width="2%"></a> Javascript</code> 
 
 ## Reach Me :mailbox:
 
@@ -102,11 +101,3 @@ My public repositories are mainly written in the following languages:
 #### Social Media
 <a href="https://www.linkedin.com/in/parcb" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/serranopuente-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <a href="https://github.com/par-cb" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/serranopuente-181717?style=flat-square&logo=github&logoColor=white"></a>
-
-#### Research Profiles
-<a href="https://scholar.google.es/citations?user=dKncLyQAAAAJ&hl=es" target="_blank"><img alt="Google Scholar" src="https://img.shields.io/badge/Dario_Serrano--Puente-4285F4?style=flat-square&logo=googlescholar&logoColor=white"></a>
-<a href="https://orcid.org/0000-0002-5943-3332" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/0000--0002--5943--3332-A6CE39?style=flat-square&logo=orcid&logoColor=white"></a>
-<a href="https://www.webofscience.com/wos/author/record/2296848" target="_blank"><img alt="Web of Science" src="https://img.shields.io/badge/AAQ--1157--2021-000000?style=flat-square&logo=clarivate&logoColor=white"></a>
-<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4360579" target="_blank"><img alt="SSRN" src="https://img.shields.io/badge/Dario_Serrano--Puente-154881?style=flat-square&logo=ssrn&logoColor=white"></a>
-<a href="https://www.researchgate.net/profile/Dario-Serrano-Puente" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/Dario_Serrano--Puente-00CCBB?style=flat-square&logo=researchgate&logoColor=white"></a>
---->
